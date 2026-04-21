@@ -62,10 +62,3 @@ Urban metro systems face:
    - Pricing recommendation  
 
 ---
-
-## 🚀 Demo
-
-👉 Run locally:
-
-```bash
-streamlit run app/app.py
